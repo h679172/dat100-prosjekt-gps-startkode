@@ -17,8 +17,4 @@ public class Main {
         gpsData.print();
         gpsData.print();
 	}
-	 public void GPSinserter(GPSPoint gpspoint1, GPSPoint gpspoint2) {
-		 
-	 }
-	
 }
